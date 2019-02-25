@@ -1,2 +1,1 @@
 # SQLAlchemy
-Hawaii Sqlite
